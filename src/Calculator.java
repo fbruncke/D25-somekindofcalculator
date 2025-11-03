@@ -7,4 +7,6 @@ public class Calculator {
      * @return
      */
     public static int addNumbers(int summant1, int sumant2){return summant1+sumant2;}
+
+    public static int multiplyNumbers(int summant1, int sumant2){return summant1*sumant2;}
 }
